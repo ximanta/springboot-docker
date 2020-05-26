@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bda7a59-41d7-439d-91e8-78a0081cb362" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="368" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590453344256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590453344256" />
     <state x="413" y="64" key="FileChooserDialogImpl" timestamp="1590451334656">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
